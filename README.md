@@ -27,6 +27,8 @@ Cette application est un chat en ligne.
 
 
 - Si on choisi de le modifier une fenêtre de dialogue apparait avec le texte précédent et en cliquant sur la barre de saisi un clavier apparait:
+
 ![screenshot_2018-02-04-12-03-15](https://user-images.githubusercontent.com/33719393/35777006-a64379f8-09a6-11e8-9d84-82351f71be99.png)
+
 
 - Et enfin une fois fini on se déconnecte avec le bouton déconnexion en haut à droite de l'écran.
