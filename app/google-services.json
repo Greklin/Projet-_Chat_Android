@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "971408791951",
+    "firebase_url": "https://cours-android-b9200.firebaseio.com",
+    "project_id": "cours-android-b9200",
+    "storage_bucket": "cours-android-b9200.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971408791951:android:e18417aee665a4bb",
+        "android_client_info": {
+          "package_name": "io.gresse.hugo.tp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971408791951-am8uftek9e5683t1r7t4r1jtjmuulk2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.gresse.hugo.tp2",
+            "certificate_hash": "ce26aa6728945ad0c1b3f10642112bf5046594bb"
+          }
+        },
+        {
+          "client_id": "971408791951-gbeabtfvucvvpq26eb72466ks2h0rbmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0lQJ-7pxKxyb141Ycpz97YUmr5YGDr9o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971408791951-gbeabtfvucvvpq26eb72466ks2h0rbmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

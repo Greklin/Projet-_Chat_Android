@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chat FireBase</string>
+    <string name="name_picker">Choisissez votre nom</string>
+    <string name="user">utilisateur</string>
+    <string name="content">contenu</string>
+    <string name="login">CONTINUER</string>
+    <string name="edit_text">Entrez Texte</string>
+    <string-array name="options">
+        <item>supprimer</item>
+        <item>modifier</item>
+    </string-array>
+</resources>

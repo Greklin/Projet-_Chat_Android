@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Firebase Chat</string>
+    <string name="name_picker">Choose your name</string>
+    <string name="user">user</string>
+    <string name="content">content</string>
+    <string name="login">LOGIN</string>
+    <string name="edit_text">Input Text</string>
+    <string-array name="options">
+        <item>delete</item>
+        <item>udpate</item>
+    </string-array>
+</resources>
